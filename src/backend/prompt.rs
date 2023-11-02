@@ -31,7 +31,7 @@ fn replaceVars(args: Vec<String>, variables: HashMap<String, String>) -> Vec<Str
       arg = arg[1..].to_string();
     }
   }
-  return args
+  return args;
 }
 
 

@@ -19,8 +19,8 @@ The commands output is written to the output window. It is typically overwritten
 
 ## Todo
 - Prompt
-  - accept input
-  - turn input into tokens
+  - accept input (done)
+  - turn input into tokens (done)
   - execute functions
   - take arguments
   - replace variables
